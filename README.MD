@@ -1,6 +1,8 @@
 # Requirements 
 Project requires Microsoft Point of Service for .NET v1.14.1 (POS for .NET)
 
+Make sure to install the SDK parts!!!
+
 https://www.microsoft.com/en-us/download/details.aspx?id=55758
 
 # Setup
